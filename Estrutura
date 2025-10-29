@@ -1,0 +1,13 @@
+meu-projeto-spa/                <-- pasta do projeto (repo)
+├─ index.html
+├─ README.md
+├─ css/
+│  └─ styles.css
+├─ images/
+│  └─ (suas imagens...)
+└─ js/
+   ├─ app.js            // entry, inicializa SPA
+   ├─ router.js         // roteador SPA simples
+   ├─ templates.js      // sistema de templates
+   ├─ validation.js     // regras de validação + mensagens
+   └─ storage.js        // wrapper localStorage
